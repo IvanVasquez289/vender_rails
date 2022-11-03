@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+ps5:
+  title: PS5 Slim
+  description: Se encuentra en buen estado
+  price: 150
+
+ipad:
+  title: iPad
+  description: Tiene la pantalla rota
+  price: 299
